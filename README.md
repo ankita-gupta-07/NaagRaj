@@ -12,6 +12,7 @@ A Naagraj game built using React.js, HTML Canvas, and TypeScript.
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Game Controls](#game-controls)
+- [License](#license)
 
 ## Features
 
@@ -65,4 +66,8 @@ Use the arrow keys or `W`,`A`,`S`,`D` keys on your keyboard to control the snake
 Others:
 
 - To **Pause** the game - Press `esc` or click anywhere the screen
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
