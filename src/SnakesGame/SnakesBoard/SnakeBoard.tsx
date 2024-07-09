@@ -23,7 +23,7 @@ export default function SnakeBoard({
 
   const snakes = useRef<SnakeGameEngine | null>(null);
 
-  const canvasSidesLength = 500; // 500px
+  const canvasSidesLength = 350; // 500px
 
   useEffect(() => {
     console.log("canvasRef", canvasRef)
