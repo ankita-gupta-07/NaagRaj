@@ -10,9 +10,14 @@ A Naagraj game built using React.js, HTML Canvas, and TypeScript.
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Game Controls](#game-controls)
 - [License](#license)
+
+## Demo
+
+https://naagrajgame.netlify.app/
 
 ## Features
 
